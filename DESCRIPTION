@@ -1,0 +1,15 @@
+Package: icd
+Type: Package
+Title: ICD10 Codes
+Version: 0.1
+Date: 2016-02-18
+Author: John Orr
+Maintainer: John Orr <john.orr@doh.vi.gov>
+Description: data files containing ICD10 codes
+License: CC0
+LazyData: TRUE
+Imports:
+    XML
+Suggests:
+    dplyr
+RoxygenNote: 5.0.1
